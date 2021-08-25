@@ -1,6 +1,7 @@
 var keyValue = "";
 $(function () {
     keyValue = getUrlParam("key");
+    $('#iKey').html(keyValue);
     var keyv = keyValue.split('0x').join('');
     var isOk = false;
     $('.search-null').hide();

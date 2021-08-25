@@ -138,7 +138,7 @@ a:hover {color: #FFF;text-decoration: none}
 .search-null{height: calc(100vh - 45px - 60px);width: 100%;}
 .search-null .text-content .title{font-size: 46px;}
 .search-null .text-content .txt{font-size: 36px;margin-top: 50px;line-height: 1.8;}
-.search-null .text-content a{background-color: #FFF;line-height: 90px;border-radius: 45px;width: 270px;color: #3788f6;font-size: 36px;margin-top: 80px;}
+.search-null .text-content a{background-color: #FFF;line-height: 30px;border-radius: 45px;width: 270px;color: #3788f6;font-size: 16px;margin-top: 80px;}
 .search-null .pic{width: 610px;}
 .search-null .pic img{width: 100%;}
 
@@ -207,7 +207,7 @@ a:hover {color: #FFF;text-decoration: none}
 	.nav-tabs{font-size: 16px;}	
 	.search-null .text-content .title{font-size: 40px;}
 	.search-null .text-content .txt{font-size: 30px;margin-top: 40px;}
-	.search-null .text-content a{line-height: 70px;border-radius: 35px;width: 240px;font-size: 32px;margin-top: 60px;}
+	.search-null .text-content a{line-height: 30px;border-radius: 35px;width: 240px;font-size: 16px;margin-top: 60px;}
 	.search-null .pic{width: 510px;}
 	.map-text{left: 20px;}
 	
@@ -229,7 +229,7 @@ a:hover {color: #FFF;text-decoration: none}
 	
 	.search-null .text-content .title{font-size: 32px;}
 	.search-null .text-content .txt{font-size: 22px;margin-top: 30px;}
-	.search-null .text-content a{line-height: 70px;border-radius: 35px;width: 240px;font-size: 24px;margin-top: 60px;}
+	.search-null .text-content a{line-height: 30px;border-radius: 35px;width: 240px;font-size: 16px;margin-top: 60px;}
 	.search-null .pic{width: 410px;}
 	
 	
@@ -284,7 +284,7 @@ a:hover {color: #FFF;text-decoration: none}
 	.search-null .text-content{margin-top: 40px;width: 100%;}
 	.search-null .text-content .title{font-size: 24px;}
 	.search-null .text-content .txt{font-size: 18px;margin-top: 10px;}
-	.search-null .text-content a{margin-top: 30px;line-height: 50px;width: 200px;font-size: 20px;}
+	.search-null .text-content a{margin-top: 30px;line-height: 50px;width: 200px;font-size: 16px;}
 	.search-content .con{width: 100%;}
 }
 @media (max-width: 424px) {
